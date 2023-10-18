@@ -1,0 +1,16 @@
+Nadiatus Salam
+PYTN-KS19-014
+Python for Data Science by Hacktiv8
+Assignment Python 3 Hacktiv8 - Bank Marketing Data Set
+
+Repository Github : https://github.com/nasamarca/PYTN_Assgn_3_5_NadiatusSalam.git
+
+python 3.10.4
+visual studio code
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
